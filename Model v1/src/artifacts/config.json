@@ -1,0 +1,11 @@
+{
+  "num_cols": [
+    "value",
+    "value_base_oz",
+    "total_qty_oz",
+    "pack",
+    "unit_enc"
+  ],
+  "text_col": "catalog_content",
+  "random_state": 42
+}
